@@ -122,7 +122,7 @@ const Home = () => {
                 Gender
               </th>
               <th className='border border-slate-600 rounded-md max-md:hidden'>
-                birthdate
+                birthday
               </th>
               <th className='border border-slate-600 rounded-md max-md:hidden'>
                 Discription
